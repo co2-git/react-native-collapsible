@@ -24,7 +24,7 @@ class Collapsible extends Component {
       PropTypes.string,
       PropTypes.func,
     ]),
-    style: View.propTypes.style,
+    // style: View.propTypes.style,
   };
 
   static defaultProps = {
